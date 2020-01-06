@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/d3-visualization-and-firebase/static/css/main.d1b05096.chunk.css",
-    "main.js": "/d3-visualization-and-firebase/static/js/main.9b3e86bf.chunk.js",
-    "main.js.map": "/d3-visualization-and-firebase/static/js/main.9b3e86bf.chunk.js.map",
-    "runtime-main.js": "/d3-visualization-and-firebase/static/js/runtime-main.d025cc95.js",
-    "runtime-main.js.map": "/d3-visualization-and-firebase/static/js/runtime-main.d025cc95.js.map",
-    "static/js/2.9287e956.chunk.js": "/d3-visualization-and-firebase/static/js/2.9287e956.chunk.js",
-    "static/js/2.9287e956.chunk.js.map": "/d3-visualization-and-firebase/static/js/2.9287e956.chunk.js.map",
+    "main.js": "/d3-visualization-and-firebase/static/js/main.4347be5e.chunk.js",
+    "main.js.map": "/d3-visualization-and-firebase/static/js/main.4347be5e.chunk.js.map",
+    "runtime-main.js": "/d3-visualization-and-firebase/static/js/runtime-main.8f2a05e9.js",
+    "runtime-main.js.map": "/d3-visualization-and-firebase/static/js/runtime-main.8f2a05e9.js.map",
+    "static/js/2.bef6f4df.chunk.js": "/d3-visualization-and-firebase/static/js/2.bef6f4df.chunk.js",
+    "static/js/2.bef6f4df.chunk.js.map": "/d3-visualization-and-firebase/static/js/2.bef6f4df.chunk.js.map",
     "index.html": "/d3-visualization-and-firebase/index.html",
-    "precache-manifest.c9d00e6d6c711296e6ce9c3ba6934885.js": "/d3-visualization-and-firebase/precache-manifest.c9d00e6d6c711296e6ce9c3ba6934885.js",
+    "precache-manifest.fe809dd382a620e4d1711311d43b6c75.js": "/d3-visualization-and-firebase/precache-manifest.fe809dd382a620e4d1711311d43b6c75.js",
     "service-worker.js": "/d3-visualization-and-firebase/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/d3-visualization-and-firebase/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.9287e956.chunk.js.LICENSE": "/d3-visualization-and-firebase/static/js/2.9287e956.chunk.js.LICENSE",
-    "static/media/logo.svg": "/d3-visualization-and-firebase/static/media/logo.5d5d9eef.svg"
+    "static/js/2.bef6f4df.chunk.js.LICENSE": "/d3-visualization-and-firebase/static/js/2.bef6f4df.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.d025cc95.js",
-    "static/js/2.9287e956.chunk.js",
+    "static/js/runtime-main.8f2a05e9.js",
+    "static/js/2.bef6f4df.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.9b3e86bf.chunk.js"
+    "static/js/main.4347be5e.chunk.js"
   ]
 }
