@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import D3_1 from './d3_1';
 import D3_SVG from './d3_svg';
