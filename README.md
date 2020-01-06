@@ -1,8 +1,8 @@
-The Live Demo of the project is available here [Here](https://github.com/facebook/create-react-app).
+The Live Demo of the project is available here [Here](https://anish9461.github.io/d3-visualization-and-firebase).
 
-## Available Scripts
+## D3 visualization 
 
-In the project directory, you can run:
+This repository helps to understand the d3 visualization using SVGs. Following are the topics covered: 
 
 ### `yarn start`
 
