@@ -4,9 +4,8 @@
 
 
 import React, {Component} from 'react';
-import '../src/App.css';
+import '../App.css';
 import * as d3 from 'd3';
-import { schemeGnBu } from 'd3';
 
 class D3_SVG extends Component{
 

@@ -3,7 +3,7 @@
  */
 
 import React, {Component} from 'react';
-import '../src/App.css';
+import '../App.css';
 
 
 class D3_1 extends Component{

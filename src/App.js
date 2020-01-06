@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import D3_1 from './d3_1';
-import D3_SVG from './d3_svg';
+import D3_1 from './D3_and_SVG/d3_1';
+import D3_SVG from './D3_and_SVG/d3_svg';
 
 class App extends React.Component{
   render(){
