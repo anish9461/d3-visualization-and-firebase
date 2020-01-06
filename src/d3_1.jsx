@@ -8,7 +8,7 @@ class D3_1 extends Component{
         return(
             <div className='App'>
                 <h2>SVG Shapes</h2>
-                <svg width="600" height="600">
+                <svg width="600" height="350">
                     <rect x='250' y='40' fill='blue' width='100' height='200'></rect>
                     <circle cx='200' cy='200' r='50' fill='pink' stroke='red' strokeWidth='3'></circle>
                     <line x1='100' y1='100' x2='120' y2='220' stroke='grey' strokeWidth='3'></line>
