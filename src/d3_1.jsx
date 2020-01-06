@@ -1,3 +1,7 @@
+/**
+ * SVG basic building blocks
+ */
+
 import React, {Component} from 'react';
 import '../src/App.css';
 

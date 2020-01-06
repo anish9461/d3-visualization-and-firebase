@@ -4,28 +4,22 @@ The Live Demo of the project is available here [Here](https://anish9461.github.i
 
 This repository helps to understand the d3 visualization using SVGs. Following are the topics covered: 
 
-### `yarn start`
+### SVG paths
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+SVG custom path
+* M -> moveto
+* L -> lineto
+* Z -> closepath
+* C -> For curving a line
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### SVG using D3
+* Create simple SVG shapes
+* Change the attributes of the svg using .attr() method
+* Goupe svgs together and transform them 
 
-### `yarn test`
+### Using Data with D3
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `yarn eject`
 
@@ -45,10 +39,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 
-### SVG paths
-
-SVG custom path
-* M -> moveto
-* L -> lineto
-* Z -> closepath
-* C -> For curving a line
