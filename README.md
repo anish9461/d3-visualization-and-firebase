@@ -25,6 +25,15 @@ SVG custom path
 * Using local external json data
     * Using javascript promises to load json data (asynchronou method => callback function is called after task is complete `.then()`)
 
+### SVG Charts
+* Linear Scales on bar chart to not shoot the values over the range (domain and range)
+* Band scales for a group of bar charts ( scale for width of the rectangle -> to fit into the svg) -> Using band scale rather than linear scale
+* Padding for the bar charts
+* Using Min, Max and Extent (returns array of minimum and maximum) from D3
+* Using template string instead of concatenation ``${someVar}``
+* Setting margins for bar graph, axis, inverting scales and bars
+* Tick formatting for the axis
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**

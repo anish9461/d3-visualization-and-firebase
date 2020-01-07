@@ -4,6 +4,7 @@ import D3_1 from './D3_and_SVG/d3_1';
 import D3_SVG from './D3_and_SVG/d3_svg';
 import D3_SVG_DATA from './D3_and_SVG/d3_svg_data';
 import D3_SVG_DATA_EXTERNAL from './D3_and_SVG/d3_svg_data_external';
+import D3_CHART_SCALE from './D3_and_SVG/d3_chart_scales';
 
 class App extends React.Component{
   render(){
@@ -14,6 +15,7 @@ class App extends React.Component{
         <D3_SVG />
         <D3_SVG_DATA />
         <D3_SVG_DATA_EXTERNAL />
+        <D3_CHART_SCALE />
       </div>
     )
   }

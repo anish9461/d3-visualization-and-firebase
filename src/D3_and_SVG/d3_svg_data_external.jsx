@@ -9,8 +9,7 @@ import * as d3 from "d3";
 const D3_SVG_data_external = () => {
   useEffect(() => {
     const svg = d3.select(".data_svg_external");
-    d3.json("./planets.json").then(data => {
-      console.log(data);
+    d3.json("planets.json").then(data => {
       const circs = svg.selectAll('circle')
         .data(data)
 
