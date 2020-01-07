@@ -12,9 +12,8 @@ class D3_SVG extends Component{
 
     componentDidMount(){
         const canvas = d3.select(".canvas");
-        console.log(canvas)
         const svg = canvas.append('svg')
-            .attr('height', 600)
+            .attr('height', 325)
             .attr('width', 600);
 
         const group = svg.append('g')

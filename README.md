@@ -7,19 +7,23 @@ This repository helps to understand the d3 visualization using SVGs. Following a
 ### SVG paths
 
 SVG custom path
-* M -> moveto
-* L -> lineto
-* Z -> closepath
-* C -> For curving a line
+* `M` -> moveto
+* `L` -> lineto
+* `Z` -> closepath
+* `C` -> For curving a line
 
 ### SVG using D3
 * Create simple SVG shapes
-* Change the attributes of the svg using .attr() method
+* Change the attributes of the svg using `.attr()` method
 * Goupe svgs together and transform them 
 
-### Using Data with D3
-
-
+### Using dynamic Data with D3
+* Using Dynamic Local data
+* Using arrow functions to set attributes of svg shapes
+* Joining data to svg DOM elements. 
+* Creating virtual elements using Enter Selection of D3
+* Using local external json data
+    * Using javascript promises to load json data (asynchronou method => callback function is called after task is complete `.then()`)
 
 ### `yarn eject`
 
@@ -31,11 +35,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 
