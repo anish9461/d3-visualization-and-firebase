@@ -34,6 +34,11 @@ SVG custom path
 * Setting margins for bar graph, axis, inverting scales and bars
 * Tick formatting for the axis
 
+### Firebase
+* NoSql database provided by google to store data
+* Real-time capability provided by the database
+* Fetching the data from the firstore collection and using it in the react Application
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**

@@ -36,7 +36,7 @@ const D3_Chart_scales = () => {
             .paddingInner(0.2)
             .paddingOuter(0.2)
         
-        console.log(x.bandwidth())
+       
 
         const rects = graph.selectAll('rect')
             .data(data)
