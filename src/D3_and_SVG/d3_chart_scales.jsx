@@ -79,6 +79,7 @@ const D3_Chart_scales = () => {
             .attr('height', d => graphHeight - y(d.orders))
             .attr('y', d => y(d.orders))
             .delay((d,i) => ( i * 100))
+    
       });
     }, []);
   

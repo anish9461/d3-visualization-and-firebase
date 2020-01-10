@@ -10,6 +10,11 @@ import ASTER from './D3_Widgets/AsterPlot';
 import GAUGE1 from './D3_Widgets/Gauge1';
 import GAUGE2 from './D3_Widgets/Gauge2';
 import GAUGE3 from './D3_Widgets/Gauge3';
+import MetricsGraph from './D3_Widgets/MetricsGraph';
+import BubbleChart from './D3_Widgets/BubbleChart';
+import BubbleMenu from './D3_Widgets/BubbleMenu';
+import BubbleMenuSingle from './D3_Widgets/BubbleMenuSingle';
+import IBubbleChart from './D3_Widgets/IBubbleChart';
 
 class App extends React.Component{
   render(){
@@ -26,6 +31,12 @@ class App extends React.Component{
         <GAUGE1 />
         <GAUGE2 />
         <GAUGE3 />
+        <MetricsGraph />
+        <IBubbleChart />
+        <BubbleChart />
+        {/* <BubbleMenu /> */}
+        {/* <BubbleMenuSingle /> */}
+        {/* <IBubbleChart /> */}
       </div>
     )
   }

@@ -57,7 +57,7 @@ const Aster = () => {
     svg.call(tip);
 
     d3.csv("aster_data.csv").then(data => {
-        console.log(data)
+   
       data.forEach(function(d) {
         d.id = d.id;
         d.order = +d.order;
@@ -110,7 +110,7 @@ const Aster = () => {
         data.reduce(function(a, b) {
           return a + b.weight;
         }, 0);
-        console.log(count)
+        
       svg
         .append("svg:text")
         .attr("class", "aster-score")
